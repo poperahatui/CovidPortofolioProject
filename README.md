@@ -46,7 +46,7 @@ Key features include:
 ## 🚀 **How to View the Dashboard**
 1. Download [Tableau Public](https://public.tableau.com/) if you don't already have it installed.
 2. Clone this repository and open the Tableau workbook in the `/tableau-files` directory.
-3. Alternatively, view the dashboard online at (https://public.tableau.com/app/profile/majangga.majangga/viz/CovidPortofoloProject/Dashboard1)(#).
+3. Alternatively, view the dashboard online at (https://public.tableau.com/app/profile/majangga.majangga/viz/CovidPortofoloProject/Dashboard1).
 
 ---
 
